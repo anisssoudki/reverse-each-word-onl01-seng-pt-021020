@@ -7,7 +7,7 @@ def reverse_each_word(string)
 
 
 string.collect do |string|
-  return stringreverse
+  puts stringreverse
 end
 
 end
